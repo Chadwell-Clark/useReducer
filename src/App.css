@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.counter {
+  justify-content: flex-end;
+  font-size: 3rem;
+}
+button {
+  justify-self: flex-end;
+  font-size: 2rem;
+  padding: 2rem;
+
+}
